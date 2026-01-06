@@ -1,0 +1,49 @@
+resolution	1920 1080
+
+resource/background/16_9_background_a1.tga					fit		0		824
+resource/background/16_9_background_a2.tga					fit		256		824
+resource/background/16_9_background_a3.tga					fit		512		824
+resource/background/16_9_background_a4.tga					fit		768		824
+resource/background/16_9_background_a5.tga					fit		1024	824
+resource/background/16_9_background_a6.tga					fit		1280	824
+resource/background/16_9_background_a7.tga					fit		1536	824
+resource/background/16_9_background_a8.tga					fit		1792	824
+
+resource/background/16_9_background_b1.tga					fit		0		568
+resource/background/16_9_background_b2.tga					fit		256		568
+resource/background/16_9_background_b3.tga					fit		512		568
+resource/background/16_9_background_b4.tga					fit		768		568
+resource/background/16_9_background_b5.tga					fit		1024	568
+resource/background/16_9_background_b6.tga					fit		1280	568
+resource/background/16_9_background_b7.tga					fit		1536	568
+resource/background/16_9_background_b8.tga					fit		1792	568
+
+resource/background/16_9_background_c1.tga					fit		0		312
+resource/background/16_9_background_c2.tga					fit		256		312
+resource/background/16_9_background_c3.tga					fit		512		312
+resource/background/16_9_background_c4.tga					fit		768		312
+resource/background/16_9_background_c5.tga					fit		1024	312
+resource/background/16_9_background_c6.tga					fit		1280	312
+resource/background/16_9_background_c7.tga					fit		1536	312
+resource/background/16_9_background_c8.tga					fit		1792	312
+
+resource/background/16_9_background_d1.tga					fit		0		56
+resource/background/16_9_background_d2.tga					fit		256		56
+resource/background/16_9_background_d3.tga					fit		512		56
+resource/background/16_9_background_d4.tga					fit		768		56
+resource/background/16_9_background_d5.tga					fit		1024	56
+resource/background/16_9_background_d6.tga					fit		1280	56
+resource/background/16_9_background_d7.tga					fit		1536	56
+resource/background/16_9_background_d8.tga					fit		1792	56
+
+resource/background/16_9_background_e1.tga					fit		0		0
+resource/background/16_9_background_e2.tga					fit		256		0
+resource/background/16_9_background_e3.tga					fit		512		0
+resource/background/16_9_background_e4.tga					fit		768		0
+resource/background/16_9_background_e5.tga					fit		1024	0
+resource/background/16_9_background_e6.tga					fit		1280	0
+resource/background/16_9_background_e7.tga					fit		1536	0
+resource/background/16_9_background_e8.tga					fit		1792	0
+
+
+
