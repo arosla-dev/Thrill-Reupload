@@ -23,3 +23,6 @@ Rat.mdl - the rest of the models
 Pawel Perepelica - portal sound effects
 AlexEpisode, Marco198, C.Marti, DaKashi, Nellcifur, Leviathan, .redspyinthebase, DIAMANTЬ, breg - playtesting
 runningivan97 - everything else
+
+
+Note from Arosla-dev: no, it's not map src leak, or project src, just a reupload for safe
